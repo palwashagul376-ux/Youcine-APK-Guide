@@ -96,7 +96,7 @@ Antes de instalar qualquer aplicativo, é sempre bom verificar se o dispositivo 
 
 Este projeto também reúne informações e guias sobre streaming no Android.
 
-👉 Android Streaming Guides
+👉 [Android Streaming Guides](https://youcinedownlod.com/)
 
 ---
 
